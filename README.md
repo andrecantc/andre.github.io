@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# andrecantc.github.io
+Terminal based portfolio by André Gaudet
