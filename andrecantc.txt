@@ -1,13 +1,13 @@
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> cd root/<!-- laglaglaglaglaglag -->About_me
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->andrecantc.txt<br/><br/>
-My favorite code quote, "<span id="k">Why do Java Programmers wear glasses?Because they don't C#.</span>". <!-- sjkfhskjf -->
+Verry funny joke!, "<span id="k">Why do Java Programmers wear glasses?Because they don't C#.</span>". <!-- sjkfhskjf -->
 
-Hey There! welcome to my portfolio .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>yeah verry cool it looks like a terminal right.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+Hey There! welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Pretty cool it looks like a terminal right.</p>
+<p>Hi my name is André and i like programing and internet security .</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I sometimes make musik. <br><br><br>Give your project links or something like that. <a href=""https://soundcloud.com/andregbre"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> yeah so here u have my instagram, here: <br> <a href="https://www.instagram.com/whoisandregaudet/">Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">Spotify</a> and <br> <a href="https://kde.org/sv/">My Favorite linux distro</a>.</p>
+<p>sometimes make music. <br><br><br>Listen if u want :). <a href=""https://soundcloud.com/andregbre"> Soundcloud</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> yeah so here u have my instagram, here: <br> <a href="https://www.instagram.com/whoisandregaudet/">My Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">My Spotify</a> and <br> <a href="https://kde.org/sv/">My Favorite linux distro</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="andre.gaudet.ag@gmail.com">Email</a>.
+If u want to contact me or just send some thing funny<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="andre.gaudet.ag@gmail.com">andre.gaudet.ag@gmail.com</a>.
 
-<p>Cheers!</p>
+<p>have a great day/night</p>
