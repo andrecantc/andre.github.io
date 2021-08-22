@@ -2,12 +2,12 @@
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->andrecantc.txt<br/><br/>
 Here's a verry funny joke! "<span id="k">Why do Java Programmers wear glasses?Because they don't C#.</span>". <!-- sjkfhskjf -->
 
-Hey There! welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Pretty cool it looks like a terminal right.</p>
+Hi and welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Pretty cool it looks like a terminal right.</p>
 <p>Hi my name is André and i like programing and internet security.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I sometimes make music. <br><br><br>Listen if u want<a href="https://soundcloud.com/andregbre"> Soundcloud</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> yeah so here u have my instagram, here: <br> <a href="https://www.instagram.com/whoisandregaudet/">My Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">My Spotify</a> and <br> <a href="https://kde.org/sv/">My Favorite linux distro</a>.</p>
+<p>Here are some various links <br> <a href="https://www.instagram.com/whoisandregaudet/">My Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">My Spotify</a> and <br> <a href="https://kde.org/sv/">My Favorite linux distro</a>.</p>
 
-If u want to contact me or just send some thing funny<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:andre.gaudet.ag@gmail.com">andre.gaudet.ag@gmail.com</a>.
+If u want to contact me or just send some thing funny<!-- slightdelayhere-->,feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:andre.gaudet.ag@gmail.com">andre.gaudet.ag@gmail.com</a>.
 
 <p>have a great day/night</p>
