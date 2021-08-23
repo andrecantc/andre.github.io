@@ -2,7 +2,7 @@
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> print <!-- laglaglaglaglaglaglaglaglag -->andrecantc.txt<br/><br/>
 Here's a verry funny joke! "<span id="k">Why do Java Programmers wear glasses?Because they don't C#.</span>". <!-- sjkfhskjf -->
 
-Hi and welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Pretty cool it looks like a terminal right.</p>
+Hi and welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>It looks like a terminal pretty cool right?</p>
 <p>Hi my name is André and i like programing and internet security.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I sometimes make music. <br><br><br>Listen if u want<a href="https://soundcloud.com/andregbre"> Soundcloud</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
