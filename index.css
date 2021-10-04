@@ -1,9 +1,9 @@
 :root {
-	background-color: #000 !important;
+	background-color: rgb(45, 74, 85) !important;
 }
 
 body {
-	background-color: #000
+	background-color: rgb(45, 74, 85)
 }
 
 #console {
@@ -22,7 +22,7 @@ a {
 }
 
 #a {
-	color: #0f0;
+	color: rgb(249, 241, 165);
 }
 
 #c {
@@ -42,7 +42,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
-    	99% { color: black; }
+    	0%  { color:  rgb(249, 241, 165); }
+    	50% { color:  rgb(249, 241, 165); }
+    	99% { color: rgb(249, 241, 165); }
 }
