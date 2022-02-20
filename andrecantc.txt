@@ -1,12 +1,12 @@
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> cd root/<!-- laglaglaglaglaglag -->About_me
 <span id="a">andre@gaudet</span>:<span id="b">~</span><span id="c">$</span> print <!-- laglaglaglaglaglaglaglaglag -->portfolio.txt<br/><br/>
-Here's a verry funny joke! "<span id="k">Why do Java Programmers wear glasses?Because they don't C#.</span>". <!-- sjkfhskjf -->
+ "<span id="k">FUCK VIRUS TOTAL</span>". <!-- sjkfhskjf -->
 
 Welcome to my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>It looks like a terminal pretty cool right?</p>
 <p>Hi my name is André and i like programing and internet security.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I sometimes make music. <br><br><br>Listen if u want<a href="https://soundcloud.com/andregbre"> Soundcloud</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p>Here are some various links <br> <a href="https://www.instagram.com/andrechristiangaudet/">My Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">My Spotify</a> and <br> <a href="https://www.platinumsales.se/">What i work with</a>.</p>
+<p>Here are some various links <br> <a href="https://www.instagram.com/andrechristiangaudet/">My Instagram</a> <br> <a href="https://open.spotify.com/user/andre.gaudet.ag?si=61e61a84fa754fc3">My Spotify</a> </p>
 
 If u want to contact me or just send some thing funny<!-- slightdelayhere-->,feel free to send me an email at   <!-- longlonglongcomment --><a href="mailto:andre.gaudet.ag@gmail.com">andre.gaudet.ag@gmail.com</a>.
 
